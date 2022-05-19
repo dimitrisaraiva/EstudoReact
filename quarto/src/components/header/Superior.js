@@ -5,7 +5,7 @@ export default function Superior(){
     return(
         <div className="superior">
             <Marca />
-            <Titulo nome="Renan"/>
+            <Titulo nome="Dimitri"/>
         </div>
     )
 }
